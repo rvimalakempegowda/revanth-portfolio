@@ -1,0 +1,32 @@
+.main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.intro {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.skills,
+.projects,
+.experience {
+  margin-bottom: 3rem;
+}
+
+.skills ul,
+.projects ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+}
+
+.skills li,
+.projects li {
+  margin-bottom: 0.5rem;
+}
+
+h1,
+h2 {
+  margin-bottom: 1rem;
+}
